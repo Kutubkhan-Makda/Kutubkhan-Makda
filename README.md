@@ -1,4 +1,4 @@
-### Hi there 👋`<img src="https://github.com/MKhan1792/MKhan1792/blob/master/Assets/Hi.gif" width="29px"/>`
+### Hi there 👋<img src="https://github.com/MKhan1792/MKhan1792/blob/master/Assets/Hi.gif" width="29px"/>
 
 <!--
 **MKhan1792/MKhan1792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
