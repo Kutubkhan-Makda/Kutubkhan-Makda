@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><img src="https://github.com/MKhan1792/MKhan1792/blob/master/Assets/5138157.avif">📊 GitHub Profile Stats</h3>
+<h3 align="center"><img src="https://github.com/MKhan1792/MKhan1792/blob/master/Assets/5138157.avif" width="18px" color="white">📊 GitHub Profile Stats</h3>
 <br/>
 
 <div align="center"><img src="https://github-stats-readme-dark-art108.vercel.app/api?username=MKhan1792&show_icons=true&theme=algolia" alt="MKhan1792"></div>
