@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <br/>
 
 <br/>
-<hr/>
 <h2 align="center">📊 GitHub Profile Stats</h2>
 <br/>
 
