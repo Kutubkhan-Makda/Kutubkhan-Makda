@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div><img src="https://visitor-badge.glitch.me/badge?page_id=MKhan1792.visitor-badge" alt="MKhan1792"></div>
+<br/>
 
 <br/>
+<hr/>
 <h2 align="center">📊 GitHub Profile Stats</h2>
 <br/>
 
