@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <br/>
 
 <br/>
-<h2 align="center">📊 GitHub Profile Stats</h2>
+<h2 align="center"><script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/hbwqfgcf.json"
+    trigger="hover"
+    style="width:20px;height:20px">
+</lord-icon> GitHub Profile Stats</h2>
 <br/>
 
 <div align="center"><img src="https://github-stats-readme-dark-art108.vercel.app/api?username=MKhan1792&show_icons=true&theme=algolia" alt="MKhan1792"></div>
