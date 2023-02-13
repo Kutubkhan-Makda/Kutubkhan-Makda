@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div><img src="https://visitor-badge.glitch.me/badge?page_id=MKhan1792.visitor-badge" alt="MKhan1792"></div>
+<div><img src="https://visitor-badge.glitch.me/badge?page_id=MKhan1792.visitor-badge" alt="MKhan1792"/></div>
 <br/>
 
 <br/>
 <h2 align="center">
-<img src='https://github.com/MKhan1792/MKhan1792/blob/master/Assets/Bar.gif' width="38px"/> GitHub Profile Stats</h2>
+<img src='https://github.com/MKhan1792/MKhan1792/blob/master/Assets/Bar.gif'/> GitHub Profile Stats</h2>
 <br/>
 
 <div align="center"><img src="https://github-stats-readme-dark-art108.vercel.app/api?username=MKhan1792&show_icons=true&theme=algolia" alt="MKhan1792"></div>
