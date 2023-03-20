@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div><img src="https://visitor-badge.glitch.me/badge?page_id=MKhan1792.visitor-badge" alt="MKhan1792"/></div>
 <br/>
 
-<div><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKhan1792&theme=github-compact" alt="MKhan1792"/></div>
+<div><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKhan1792&theme=react-dark" alt="MKhan1792"/></div>
 <br/>
 
 <br/>
