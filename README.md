@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <div><img src="https://visitor-badge.glitch.me/badge?page_id=MKhan1792.visitor-badge" alt="MKhan1792"/></div>
 <br/>
 
+<div><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKhan1792&theme=github-compact" alt="MKhan1792"/></div>
+<br/>
+
 <br/>
 <h2 align="center">
 <img src='https://github.com/MKhan1792/MKhan1792/blob/master/Assets/Bar.gif' width="34px" /> GitHub Profile Stats</h2>
