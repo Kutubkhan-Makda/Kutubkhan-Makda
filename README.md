@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div><img src="https://visitor-badge.glitch.me/badge?page_id=MKhan1792.visitor-badge" alt="MKhan1792"/></div>
+<div><img src="https://komarev.com/ghpvc/?username=MKhan1792&style=plastic" alt="MKhan1792"/></div>
 <br/>
 
 <div><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MKhan1792&theme=react-dark&custom_title=My%20Activity%20Graph%20&hide_border=true" alt="MKhan1792"/></div>
