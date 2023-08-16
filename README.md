@@ -51,5 +51,4 @@ Here are some ideas to get you started:
 <h2 align="center">✍️ Random Dev Quote</h2>
 <br/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
