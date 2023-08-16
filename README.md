@@ -45,3 +45,11 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center"><img src="https://github-stats-readme-dark-art108.vercel.app/api/top-langs/?username=MKhan1792&layout=compact&theme=algolia" alt="MKhan1792"></div>
+
+<div align="center">
+<br/>
+<h2 align="center">✍️ Random Dev Quote</h2>
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
