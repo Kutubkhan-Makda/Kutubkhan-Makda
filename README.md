@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div><img src="https://komarev.com/ghpvc/?username=MKhan1792&style=plastic" alt="MKhan1792"/></div>
 <br/>
 
-- 🔭 I’m currently pursuing B.E. in Computer Engineering in Darshan Rajkot
+- 🔭 I’m currently pursuing **B.E. in Computer Engineering in Darshan Rajkot**
+<!-- <br/> -->
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
